@@ -31,7 +31,7 @@ Tilt_neg = 52;
 
 void setup() 
 {
-  pinMode(22, OUTPUT);
+  
   pinMode(24, OUTPUT);
   pinMode(26, OUTPUT);
   pinMode(28, OUTPUT);
